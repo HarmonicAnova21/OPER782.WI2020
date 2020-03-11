@@ -1,6 +1,6 @@
 OPER 782 Analytic Deployment Review
 ================
-12 February 2020
+11 March 2020
 
 <!-- badges: start -->
 
@@ -77,16 +77,15 @@ indication of poor engagement by the reviewer.**
 The table below lists each developer, the URL of their respective
 project, and the assigned reviewers.
 
-| Developer          | Git\_URL                                 | Reviewer1          | Reviewer2          |
-| :----------------- | :--------------------------------------- | :----------------- | :----------------- |
-| Marc Chale         | <https://github.com/chale/reponame>      | Ryan Walton        | Clarence Williams  |
-| Mark Ciaravino     | <https://github.com/ciaravina/reponame>  | Brandon Hufstetler | Benjamin Mayo      |
-| Brandon Hufstetler | <https://github.com/hufstetler/reponame> | Clarence Williams  | Tyler Spangler     |
-| Benjamin Leiby     | <https://github.com/leiby/reponame>      | Mark Ciaravino     | Marc Chale         |
-| Benjamin Mayo      | <https://github.com/mayo/reponame>       | Tyler Spangler     | Ryan Walton        |
-| Tyler Spangler     | <https://github.com/spangler/reponame>   | Benjamin Leiby     | Brandon Hufstetler |
-| Ryan Walton        | <https://github.com/walton/reponame>     | Marc Chale         | Benjamin Leiby     |
-| Clarence Williams  | <https://github.com/williams/reponame>   | Benjamin Mayo      | Mark Ciaravino     |
+| Developer          | Git\_URL                                          | Reviewer1          | Reviewer2          |
+| :----------------- | :------------------------------------------------ | :----------------- | :----------------- |
+| Marc Chale         | <https://github.com/marcchale/Rexis>              | Brandon Hufstetler | Clayton Wilson     |
+| Brandon Hufstetler | <https://github.com/bjhufstetler/LeapFrog>        | Benjamin Mayo      | Clarence Williams  |
+| Benjamin Leiby     | <https://github.com/mrkaliv/logreg>               | Clayton Wilson     | Benjamin Mayo      |
+| Benjamin Mayo      | <https://github.com/HarmonicAnova21/FRame.BuildR> | Ryan Walton        | Marc Chale         |
+| Ryan Walton        | <https://github.com/ryanwalton57/allyR>           | Marc Chale         | Benjamin Leiby     |
+| Clarence Williams  | <https://github.com/clarencew0083/recSystem>      | Benjamin Leiby     | Ryan Walton        |
+| Clayton Wilson     | <https://github.com/clawilso15/Text.Replace>      | Clarence Williams  | Brandon Hufstetler |
 
 List of developers, projects, and assigned reviewers for OPER782 (Winter
 2020)
